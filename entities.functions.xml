@@ -1,0 +1,3 @@
+&reference.fftw.functions.fftw-plan-dft-1d;
+&reference.fftw.functions.fftw-execute;
+&reference.fftw.functions.fftw-output;
